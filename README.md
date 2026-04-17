@@ -211,8 +211,4 @@ python scripts/get_vendor_summary.py
 
 ---
 
-If you want next upgrade, I can:
 
-* Add **GitHub badges (very important for portfolio)**
-* Make it **ATS-friendly project description**
-* Or create **one more strong project README** for your resume 🚀
